@@ -137,3 +137,6 @@ buffer.txt
 
 Notes.md
 passwords.py
+
+#AWS keys
+*.pem
